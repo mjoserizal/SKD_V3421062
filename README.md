@@ -1,5 +1,5 @@
 # SKDP
-V34231064_Muhammad Arif Aldini
+V34231062_M Jose Rizal
 
 Akun admin      : admin@gmail.com
 Password admin  : admin
